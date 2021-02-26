@@ -1,0 +1,74 @@
+#amarelo{
+    color: #ffff00;
+    font-size: 20px;
+    text-shadow: 1px 1px 6px black;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#vermelho{
+    color: red;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#azul{
+    color: blue;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#laranja{
+    color: orange;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#violeta{
+    color: blueviolet;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#verde{
+    color: green;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Amarelo-Esverdiado{
+    color: #9eff03;
+    font-size: 20px;
+    text-shadow: 1px 1px 4px black;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Amarelo-Alaranjado{
+    color: #ffe900;
+    font-size: 20px;
+    text-shadow: 1px 1px 4px black;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Vermelho-Alaranjado{
+    color: #ff5f00;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Vermelho-Arroxeado{
+    color: #ff0087;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Azul-Arroxeado{
+    color: #7101ff;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
+
+#Azul-Esverdiado{
+    color: #03966a;
+    font-size: 20px;
+    background-color: rgba(149,149,149,0.21);
+}
