@@ -1,0 +1,95 @@
+.titulo1 {
+  background: greenyellow;
+  width: 200px;
+  padding: 10px;
+}
+
+.titulo2 {
+  background: rgb(255, 200, 47);
+  margin-top: 30px;
+  width: 200px;
+  padding: 10px;
+}
+
+.titulo3 {
+  background: rgb(163, 147, 255);
+  margin-top: 30px;
+  width: 200px;
+  padding: 10px;
+}
+
+.titulo4 {
+  background: rgb(255, 147, 223);
+  margin-top: 30px;
+  width: 200px;
+  padding: 10px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.texto-exemplo1 {
+  font-family: 'Times New Roman';
+  font-weight: bold;
+  font-size: 80px;
+  margin: 0;
+}
+
+.texto-exemplo2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 80px;
+  margin: 0;
+}
+
+.letra1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: 80px;
+  margin: 0;
+}
+
+.letra2 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 80px;
+  margin: 0;
+}
+
+.letra3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  font-size: 80px;
+  margin: 0;
+}
+
+.texto1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  margin: 0;
+}
+
+.texto2 {
+  font-family: sans-serif;  
+  font-size: 40px;
+  margin: 0;
+}
+
+.texto3 {
+  font-family: monospace;
+  font-size: 40px;
+  margin: 0;
+}
+
+.texto4 {
+  font-family: 'Beth Ellen', cursive;
+  font-size: 40px;
+  margin: 0;
+}
+
+.texto5 {
+  font-family: 'Monoton', cursive;
+  font-size: 40px;
+  margin: 0;
+}
