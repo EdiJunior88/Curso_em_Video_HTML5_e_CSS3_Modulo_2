@@ -1,0 +1,27 @@
+h1 {
+
+  /* box-level */
+
+  background-color: lightgreen;
+  
+  height: 300px;
+  
+  width: 300px;
+
+  border: 10px solid darkslategray;
+  
+  padding: 10px;
+
+  margin: 20px auto 40px auto;
+
+  outline: 5px dashed darksalmon;
+}
+
+a {
+
+  /* inline-level */
+  
+  border: 10px solid red;
+
+  padding: 10px;
+}
