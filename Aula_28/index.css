@@ -1,0 +1,5 @@
+h1 {
+  border: 9px solid transparent;
+  padding: 10px;
+  border-image: url(img/borda.png) 27 repeat;
+}
