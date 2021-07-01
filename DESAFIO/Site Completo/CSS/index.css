@@ -14,8 +14,7 @@ article {
 
 section {
   background-color: white;
-  width: 1140px;
-/*height: 800px;*/
+  width: 1090px;
   margin: auto;
   padding: 20px 20px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.432);
@@ -68,6 +67,7 @@ article p {
   font: 15px 'Arial';
   line-height: 30px;
   text-indent: 30px;
+  text-align: justify;
 }
 
 .subtitulo_section {
