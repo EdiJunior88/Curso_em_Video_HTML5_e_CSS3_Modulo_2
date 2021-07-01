@@ -68,6 +68,7 @@ ul > li:first-child{
 article p {
   font: 15px 'Arial';
   line-height: 30px;
+  text-indent: 30px;
 }
 
 .subtitulo_section {
