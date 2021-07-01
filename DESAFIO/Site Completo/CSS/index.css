@@ -77,3 +77,25 @@ article p {
   margin: 10px 0;
   padding-left: 5px;
 }
+
+span {
+  font-weight: bold;
+  color: #136C3A;
+}
+
+.span__imagem, a {
+  font-weight: bold;
+  color: #136C3A;
+  background-color: #80E1AE;
+  text-decoration: none;
+  padding: 2px 5px 2px 2px;
+}
+
+.imagem {
+  width: 100%;
+  margin: auto;
+}
+
+.imagem__padding {
+  padding: 15px 0px;
+}
