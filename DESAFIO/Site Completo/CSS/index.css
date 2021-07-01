@@ -44,17 +44,21 @@ section {
   padding-bottom: 25px;
 }
 
-.menu__horizontal li {
+.menu__horizontal ul li{
+  display: inline;
+}
+
+.menu__horizontal > ul > li:first-child {
+  padding-left: 20px;
+}
+
+.menu__horizontal  ul li a {
   font: 13px 'Arial';
   font-weight: bold;
   text-decoration: none;
+  list-style: none;
   color: #52df8f;
-  display: inline;
   padding-right: 20px;
-}
-
-ul > li:first-child{
-  padding-left: 20px;
 }
 
 .titulo__section {
@@ -83,7 +87,7 @@ span {
   color: #136C3A;
 }
 
-.span__imagem, a {
+.span__imagem, .span_link {
   font-weight: bold;
   color: #136C3A;
   background-color: #80E1AE;
