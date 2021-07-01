@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 header {
   background-image: linear-gradient(180deg, #3cc97e,#013619);
   width: 100%;
@@ -24,14 +26,9 @@ section {
   src: url(../pacote-projeto-d010/fontes/idroid.otf);
 }
 
-@font-face {
-  font-family: 'Bebas Neue', cursive;
-  src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-}
-
 .titulo__menu{
   text-align: center;
-  font: 45px 'Bebas Neue';
+  font: 45px 'Bebas Neue', cursive;
   color: white;
   text-shadow: 1px 1px 2px black;
   padding: 25px 0;
