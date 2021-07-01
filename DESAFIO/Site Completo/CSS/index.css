@@ -1,7 +1,25 @@
 header {
-  background-image: linear-gradient(180deg, #11e261,#013619);
+  background-image: linear-gradient(180deg, #3cc97e,#013619);
   width: 100%;
-  height: 200px;
+  height: 208px;
+  box-shadow: 1px 1px 10px black
+}
+
+article {
+  background-color: #E7E5C3;
+}
+
+section {
+  background-color: white;
+  width: 1140px;
+/*height: 800px;*/
+  margin: auto;
+  padding: 20px 20px;
+}
+
+@font-face {
+  font-family: idroid;
+  src: url(../pacote-projeto-d010/fontes/idroid.otf);
 }
 
 @font-face {
@@ -25,6 +43,7 @@ header {
   width: 650px;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 25px;
 }
 
 .menu__horizontal li {
@@ -33,4 +52,28 @@ header {
   text-decoration: none;
   color: #5cffa2;
   display: inline;
+  padding-right: 20px;
+}
+
+ul > li:first-child{
+  padding-left: 20px;
+}
+
+.titulo__section {
+  font: 30px 'idroid';
+  color: #013619;
+  margin-bottom: 10px;
+}
+
+article p {
+  font: 15px 'Arial';
+  line-height: 30px;
+}
+
+.subtitulo_section {
+  font: 20px 'idroid';
+  color: #013619;
+  background-image: linear-gradient(90deg, #80E1AE, white);
+  margin: 10px 0;
+  padding-left: 5px;
 }
