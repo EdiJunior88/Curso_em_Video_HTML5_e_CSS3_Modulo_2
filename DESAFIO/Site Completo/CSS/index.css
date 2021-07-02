@@ -70,7 +70,7 @@ section {
 
 article p {
   font: 15px 'Arial';
-  line-height: 30px;
+  line-height: 25px;
   text-indent: 30px;
   text-align: justify;
 }
@@ -111,19 +111,20 @@ span {
 }
 
 .video__youtube {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 56.25%; 
-  margin: 15px 0px;
+  margin: 15px 0;
+  padding: inherit;
+  text-align: center;
+  background-color: #1A5C38;
 }
 
-.video__youtube iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
+.box__extra {
+  background-color: #C5EBD6;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.432);
+}
+
+.box__extra p:first-child {
+  background-color: #2FA866;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
