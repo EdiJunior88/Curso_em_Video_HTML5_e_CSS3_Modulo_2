@@ -8,17 +8,22 @@ header {
 }
 
 article {
-  background-color: #E7E5C3;
+  /* background-color: #E7E5C3; */
+  background-color: #84E1AD;
   box-shadow: inset 0px 31px 9px -27px rgba(0, 0, 0, 0.401);
+  padding-bottom: 15px;
 }
 
 section {
   background-color: white;
-  width: 1090px;
-  height: 4000px;
+  /* width: 1090px; */
+  width: 950px;
+  height: auto;
   margin: auto;
   padding: 20px 20px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.432);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 @font-face {
@@ -151,8 +156,26 @@ span {
 .lista__versao_android {
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
+  padding: 0px 200px 0px 15px;
 }
 
 .lista__versao_android ul li::before {
   content: '\002714     ';
+}
+
+.texto__final {
+  padding: 15px 0px 15px 0px;
+}
+
+footer {
+  padding: 10px;
+  background-color: #1A5C38;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #68e7a3;
+}
+
+footer strong {
+  font-weight: bold;
+  color: white;
 }
