@@ -68,7 +68,8 @@ section .video__youtube {
   font-weight: bold;
   text-decoration: none;
   list-style: none;
-  color: #52df8f;
+  /* color: #52df8f; */
+  color: white;
   padding-right: 20px;
 }
 
