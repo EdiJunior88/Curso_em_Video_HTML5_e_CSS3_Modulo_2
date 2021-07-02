@@ -120,7 +120,7 @@ span {
 .box__extra {
   background-color: #C5EBD6;
   border-radius: 10px;
-  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.432);
+  box-shadow: 5px 1px 10px rgba(0, 0, 0, 0.219);
 }
 
 .box__extra p:first-child {
@@ -135,13 +135,22 @@ span {
 }
 
 .box__extra p:nth-child(2) {
-  padding: 20px 15px 20px 15px;
+  padding: 15px;
+}
+
+.box__extra p:nth-child(5) {
+  text-indent: 30px;
+  padding: 15px;
+}
+
+.box__extra p:nth-child(6) {
+  text-indent: 30px;
+  padding: 0px 15px 15px 15px;
 }
 
 .lista__versao_android {
   display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
-
 }
 
 .lista__versao_android ul li::before {
