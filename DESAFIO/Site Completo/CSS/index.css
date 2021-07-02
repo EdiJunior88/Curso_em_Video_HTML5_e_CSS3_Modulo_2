@@ -95,11 +95,16 @@ span {
   padding: 2px 5px 2px 2px;
 }
 
-.imagem {
+.imagem__margin_auto {
   width: 100%;
   margin: auto;
 }
 
 .imagem__padding {
   padding: 15px 0px;
+}
+
+.imagem__centralizada {
+  margin: auto;
+  display: block;
 }
