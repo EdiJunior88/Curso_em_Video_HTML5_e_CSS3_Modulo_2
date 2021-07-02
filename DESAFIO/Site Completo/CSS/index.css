@@ -15,6 +15,7 @@ article {
 section {
   background-color: white;
   width: 1090px;
+  height: 4000px;
   margin: auto;
   padding: 20px 20px;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.432);
@@ -107,4 +108,22 @@ span {
 .imagem__centralizada {
   margin: auto;
   display: block;
+}
+
+.video__youtube {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; 
+  margin: 15px 0px;
+}
+
+.video__youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }
