@@ -17,4 +17,4 @@ Não deixe também de acompanhar o módulo 1 para saber os fundamentos.
 <hr>
 
 <h4><b>Aulas:</b> :vhs: ????? video-aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído</h4>
