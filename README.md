@@ -5,6 +5,14 @@ O segundo módulo do Curso em Vídeo de HTML5 e CSS3 vai trazer vários conceito
 Não deixe também de acompanhar o módulo 1 para saber os fundamentos.
 <hr>
 
+<hr>
+
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
+
 <ul>
   <li>Estudos de cores</li>
   <li>Tipografia</li>
@@ -21,4 +29,4 @@ Não deixe também de acompanhar o módulo 1 para saber os fundamentos.
 <hr>
 
 <h4><b>Aulas:</b> :vhs: 41 video-aulas</h4>
-<h4><b>Status do Curso:</b> :white_check_mark: Concluído</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>
